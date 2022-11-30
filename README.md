@@ -5,8 +5,8 @@
 - 💞️ I hope to build my own website one day
 - 💌 Find me on [Weibo](https://weibo.com/u/7076090896) | [Twitter](https://twitter.com/MingLLiYa)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MingLL&show_icons=true&count_private=true&theme=dracula&hide_title=true&include_all_commits=true" />
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MingLL&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingLL&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!---
 MingLL/MingLL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
